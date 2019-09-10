@@ -1,0 +1,4 @@
+NODE_PATH=src/
+
+REACT_APP_NAME_APP='Pattern Authentication'
+REACT_APP_API_URL=http://127.0.0.1:5000
